@@ -2,3 +2,4 @@ install
 installable-file
 update-file
 documentation
+@core\.env
